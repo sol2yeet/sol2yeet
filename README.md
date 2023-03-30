@@ -2,6 +2,9 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sol2%20Github!&fontSize=90" />	
 </div>
 <div align=center>
+
+</div>
+<div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
@@ -32,6 +35,7 @@
 <br>
 <div align=center>
 	<p>🎨 SNS 🎨</p>
+	
 </div>
 <div align=center>
 	<!-- <a href="https://yermi.co.kr">
@@ -47,15 +51,12 @@
 </div>
 <div align=center>
 	<br>
-	<br>
-	
+<img src="https://github-readme-stats.vercel.app/api?username=sol2yeet&show_icons=true&layout=compact&theme=codeSTACKr"> 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sol2yeet&show_icons=true&layout=compact&theme=codeSTACKr"> -->
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=sol2yeet&show_icons=true&layout=compact&theme=codeSTACKr">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sol2yeet)](https://solved.ac/hoy1341)
-
-<!-- <p>🏆 Baekjoon solved rank 🏆</p> -->
-
-
+ <p>🏆 Baekjoon solved rank 🏆</p>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sol2yeet)](https://solved.ac/hoy1341)<br>
+	
 </div>
 
