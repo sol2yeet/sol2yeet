@@ -55,7 +55,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sol2yeet&show_icons=true&layout=compact&theme=codeSTACKr"> 
 	
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sol2yeet&show_icons=true&layout=compact&theme=codeSTACKr"> -->
-	<br>
+	
  <p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sol2yeet)](https://solved.ac/hoy1341)<br>
