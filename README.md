@@ -53,14 +53,14 @@
 <div align=center>
 	<br>
 	
-![sol2's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=codeSTACKr)
+![sol2's GitHub stats](https://github-readme-stats.vercel.app/api?username=sol2yeet&show_icons=true&theme=codeSTACKr)
 	<br>
 	
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sol2yeet&show_icons=true&layout=compact&theme=codeSTACKr"> -->
 	
- <p>🏆 Baekjoon solved rank 🏆</p>
+<!--  <p>🏆 Baekjoon solved rank 🏆</p>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sol2yeet)](https://solved.ac/hoy1341)<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sol2yeet)](https://solved.ac/hoy1341)<br> -->
 	
 </div>
 
