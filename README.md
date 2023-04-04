@@ -53,7 +53,8 @@
 <div align=center>
 	<br>
 	
-<img src="https://github-readme-stats.vercel.app/api?username=sol2yeet&show_icons=true&layout=compact&theme=codeSTACKr"> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=sol2yeet&show_icons=true&layout=compact&theme=codeSTACKr"><br>
+	
 	
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sol2yeet&show_icons=true&layout=compact&theme=codeSTACKr"> -->
 	
