@@ -48,11 +48,12 @@
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<br>
+	<br>
 </div>
 <div align=center>
 	<br>
 	
-<img src="https://github-readme-stats.vercel.app/api?username=sol2yeet&show_icons=true&layout=compact&theme=codeSTACKr"> 
+<img src="https://github-readme-stats.vercel.app/api?username=sol2yeet&show_icons=true&layout=compact&theme=codeSTACKr"> <br>
 	
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sol2yeet&show_icons=true&layout=compact&theme=codeSTACKr"> -->
 	
